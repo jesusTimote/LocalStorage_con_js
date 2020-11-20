@@ -38,7 +38,7 @@ const GuardarDatos = () => {
                 agregar.push(Datos);
                 console.log(agregar);
                 localStorage.setItem("usuario", JSON.stringify(agregar));
-                window.location.href = "Login.html";
+                window.location.href = "index.html";
             })
             
             // listar();
