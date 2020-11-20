@@ -2,9 +2,9 @@ body{
     background: #fff;
 }
 .wrap{
-    width: 90%;
-    max-width: 500px;
-    padding: 40px;
-    margin: auto;
+    width: 90% !important;
+    max-width: 500px !important;
+    padding: 40px !important;
+    margin: auto !important;
    
 }
